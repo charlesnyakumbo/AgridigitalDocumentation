@@ -1,0 +1,24 @@
+agritech:
+  label: Agritech
+  permalink: /agritech
+  description: General agritech related content
+
+crop:
+  label: Crop
+  permalink: /crop
+  description: Crop related content
+
+animal:
+  label: Animal
+  permalink: /animal
+  description: Animal related content
+
+tech:
+  label: Tech
+  permalink: /tech
+  description: Technologies used
+
+patterns:
+  label: Patterns
+  permalink: /patterns
+  description: Patterns used in the application

@@ -1,0 +1,8 @@
+{
+  "label": "Developer guide",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "For developers, including architecture details, common patterns, and reusable components"
+  }
+}

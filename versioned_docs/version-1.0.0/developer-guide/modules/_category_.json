@@ -1,0 +1,8 @@
+{
+  "label": "Modules & Features",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Describes conceptual and architectural details"
+  }
+}

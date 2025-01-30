@@ -1,0 +1,36 @@
+elijah:
+  name: Japheth Elijah
+  title: Fullstack Engineer
+  url: https://github.com/japheth-waswa
+  image_url: https://github.com/japheth-waswa.png
+  page: true
+  socials:
+    # x: japhethwaswa
+    linkedin: japhethwaswa
+    github: japheth-waswa
+    # newsletter: https://thisweekinreact.com
+
+charles:
+  name: Charles Nyakumbo
+  title: Automation & BI Engineer
+  url: https://github.com/charlesnyakumbo
+  image_url: /images/crowbyte.png
+  page: true
+  socials:
+    # x: charles-nyakumbo
+    linkedin: charlesnyakumbo
+    # github: charles-nyakumbo
+    # newsletter: https://thisweekinreact.com
+
+edith:
+  name: Edith Nekesa
+  title: UI & UX Designer
+  url: https://github.com/kesa
+  image_url: /images/crowbyte.png
+  page: true
+  socials:
+    # x: charles-nyakumbo
+    linkedin: edithnekesa
+    # github: charles-nyakumbo
+    # newsletter: https://thisweekinreact.com
+
